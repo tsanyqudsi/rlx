@@ -1,0 +1,8 @@
+{
+  "name": "auth",
+  "version": "0.1.0",
+  "description": "Auth module for RLX",
+  "main": "index.js",
+  "author": "Muhammad Tsany Qudsi",
+  "license": "MIT"
+}
